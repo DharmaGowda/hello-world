@@ -6,4 +6,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h1> This is the new line to update it on the tomcat server</h1>
 <h6> Ansible automation of deployment</h6>
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<h1> Just believe  </h1>
